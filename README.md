@@ -100,4 +100,6 @@
   Automatización del proceso de integración, pruebas y despliegue continuo.
 - **Documentación del proyecto**  
   Escribir guías, manuales y referencias técnicas que expliquen el funcionamiento, uso e instalación de la aplicación. La documentación clara ayuda a nuevos desarrolladores, facilita el mantenimiento y mejora la colaboración.
+
+
   <img width="152" height="194" alt="image" src="https://github.com/user-attachments/assets/b15e6382-fc0f-4a9d-885a-d662398bfb00" />
